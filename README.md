@@ -2,8 +2,8 @@
 # -- coding: utf-8 --
 
 print('''
-Hi there 👋. I am Ryan. A freelance translator & data analyst
-Focused on Machine Learning & Algorithmic trading.
-I'm also writing stuffs on medium
-https://medium.com/@naolin Follow me. 😄
+Hi there 👋. I am Ryan. A freelance translator & data analyst.
+I'm currently focused on Machine Learning & Algorithmic trading.
+Also writing stuffs on medium
+https://medium.com/@naolin Check it out. 😄
 ''')
