@@ -13,4 +13,4 @@ https://medium.com/@naolin Check it out. 😄
 
 """)
 
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rsych&show_icons=true&theme=react)
+![Ryan's GitHub stats](https://github-readme-stats-eight-iota-28.vercel.app/api?username=Rsych&show_icons=true&theme=react)
