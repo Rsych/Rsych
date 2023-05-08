@@ -6,7 +6,7 @@
 
 print("""
 
-**Hi there 👋. I am Ryan. A iOS Software engineer & freelance translator.
+**Hi there 👋. I am Ryan. iOS Software engineer & freelance translator.
 I'm currently interested in Algorithmic trading & SwiftUI.
 Also writing stuffs on medium
 https://medium.com/@naolin Check it out. 😄
