@@ -1,4 +1,4 @@
-#### Hi there 👋. I am Ryan.
+#### Hi there 👋. I am J. W. Kim.
 #### 📱 iOS Developer
 
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@naolin)
@@ -6,7 +6,7 @@
 
 print("""
 
-**Hi there 👋. I am Ryan. iOS Software engineer & freelance translator.
+**Hi there 👋. I'm an iOS Software engineer & freelance translator.
 I'm currently interested in Algorithmic trading & SwiftUI.
 Also writing stuffs on medium
 https://medium.com/@naolin Check it out. 😄
